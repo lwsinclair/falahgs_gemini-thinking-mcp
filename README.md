@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-falahgs-gemini-thinking-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-falahgs-gemini-thinking-mcp)
+
 # Gemini Thinking MCP Server
 
 A Model Context Protocol (MCP) server implementation for the Google Gemini language model. This server allows Claude Desktop users to access the powerful reasoning capabilities of Gemini-2.0-flash-thinking-exp-01-21 model.
